@@ -1,0 +1,10 @@
+YourMixer | Windows volume control
+Keylaunch | Animated hotkey launcher
+IdleStyle | Screensavers reimagined
+QuickNote | Quick access notepad
+MIUI-Shade | Animated control center
+Keystrokes | Overlay, Gaming, Hotkey
+===
+ModularClocks | Modern, clock, minimal
+Plainext | System, Retro
+ModularPlayers | Modern, Music, Minimal

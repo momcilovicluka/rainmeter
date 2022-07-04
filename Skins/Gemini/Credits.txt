@@ -1,0 +1,24 @@
+:----- Credits -----:
+
+:--- Font ---:
+The Anka/Coder font was downloaded from the Google Archive.
+
+x  https://code.google.com/archive/p/anka-coder-fonts/downloads
+
+
+:--- Game Images ---:
+
+x Game images were taken from a number of Google image searches or from my own games.
+
+
+:--- Wallpaper ---:
+Positron Dream has some absolutely beautiful wallpapers. Using the color scheme outlined by elenapan I edited the wallpaper "5,400 (Final)" to match the colors I needed for both the Pollux and Castor versions.
+
+x  https://www.positrondream.com/wallpapers-all
+
+
+:--- Color Scheme / Inspiration ---:
+I am a user of both Linux and Windows. u/EmpressNoodle9 posted on Reddit's UnixPorn their "Mechanical Love" theme utilizing their Lovelace color scheme. Inspired by both the color scheme and their setup, I created a Windows-similar version that has now morphed into "Gemini".
+
+x  https://www.reddit.com/r/unixporn/comments/a900p7/awesome_mechanical_love/
+x  https://github.com/elenapan

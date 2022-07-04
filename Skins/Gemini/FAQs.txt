@@ -1,0 +1,48 @@
+:x----- FAQs -----x:
+
+x How do I change my weather?
+
+There will be a Variables.ini file located in the following folder: Rainmeter > Skins > Gemini > @Resources
+
+Open that file with notepad (or another text editor). Inside there will be variables for location and unit. Your location will be your zip code, and the unit will either be m (Celsius) or i (Fahrenheight).
+
+
+x How do I change what music player it uses?
+
+There will be a Variables.ini file located in the following folder: Rainmeter > Skins > Gemini > @Resources
+
+Open that file with notepad (or another text editor). Inside there will be a variable for player. You will want to enter the correct player code from below, if it is not listed you can search for the NowPlaying documentation on Rainmeter's website:
+
+iTunes = iTunes
+MusicBee = CAD
+Winamp = Winamp
+Spotify = Spotify
+Last.fm = WLM
+OpenPandora =  WLM
+
+
+x Can I use Spotify?
+
+Yes and no. Spotify is partially supported by Rainmeter's NowPlaying plugin. The Artist, Track and play controls are supported through the Spotify app, not through the website.
+
+
+x Will you look into supporting web players?
+
+Likely yes, though it is not my first priority.
+
+
+x How do I change my apps?
+
+There are two variables files that control the application links and icons. If you are looking for the variables for the colorful gaming and entertainment sidebar, you will want the "PolluxVariables.ini". For the monotone work sidebar, you will want the "CastorVariables.ini". These are located in the @Resources folder.
+
+Once opened, you can change the name, and path for each icon or link. You can also add in hover over pictures (for the Pollux Sidebar only).
+
+
+x Where are the quotes located?
+
+The quotes folder is located: Rainmeter > Skins > Gemini > @Resources > Text
+
+
+x I need different icons, where do I find them?
+
+I used a mixture if iOS and Windows 10 themed icons (white) from icons8.com
